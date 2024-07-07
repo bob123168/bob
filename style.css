@@ -1,0 +1,19 @@
+
+.snake-container {
+    --beige: #f5f0dc;
+}
+
+.snake-container {
+    background-color: var(--beige);
+    border-radius: 20px;
+    padding: 30px;
+    padding-top: 0px;
+    margin-top: 10px;
+}
+.snake-canvas {
+    padding: 0;
+    background-color: white;
+}
+.snake-header {
+    padding: 10px 0px;
+}
